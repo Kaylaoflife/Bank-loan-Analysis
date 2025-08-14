@@ -14,7 +14,7 @@ This report was developed as part of a loan equity analysis project using 23 yea
 ### Tools
 
   - Microsoft Power BI - Data normalization, modeling, analysis and Reporting.
-  - Excel - Data exploration
+  - Excel - Data exploration and Data Cleaning
  
 ### Tasks Performed.
 #### Data Cleaning & Modeling
