@@ -45,7 +45,8 @@ This report was developed as part of a loan equity analysis project using 23 yea
   - Spotted seasonal spikes and low-performing months.
   - Calculated Month-on-Month (MoM) % growth
 
-![Bank Loan Report Screenshot](https://github.com/Kaylaoflife/Kayla_Data/blob/main/Bank%20Loan%20Report_%20pic/bank%201.jpg?raw=true)
+![Bank Loan Report Screenshot](https://github.com/Kaylaoflife/Kayla_Data/blob/main/Bank%20presentation/bank%201.jpg?raw=true)
+
 
 
 
