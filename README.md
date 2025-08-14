@@ -73,10 +73,10 @@ Cities like San Antonio, Mesa, and Detroit displayed erratic approval patterns, 
 
 ### Recommendations
 
-1.Develop and enforce a standardized, transparent credit-scoring model applicable across all age groups to reduce bias and build trust.
-2.Standardize the evaluation criteria for each loan type using a balanced view of approval rates, customer feedback, and closure trends.
+1. Develop and enforce a standardized, transparent credit-scoring model applicable across all age groups to reduce bias and build trust.
+2. Standardize the evaluation criteria for each loan type using a balanced view of approval rates, customer feedback, and closure trends.
 3. Address the disconnect between this group’s experience and outcomes. Enhance communication, streamline application processes, and review loan terms.
-4.Conduct in-depth process and performance audits in cities showing inconsistent or concerning trends to identify operational bottlenecks or policy misapplications.
+4. Conduct in-depth process and performance audits in cities showing inconsistent or concerning trends to identify operational bottlenecks or policy misapplications.
 5. Institute periodic, data-driven reviews of approval decisions segmented by gender to ensure fairness and compliance with DEI principles.
 6. Use the high volume of customer suggestions and complaints (33.8% and 33.6%, respectively) as a resource for continuous improvement. Establish feedback loops that inform product design and customer support enhancements.
 7. Address operational inconsistencies across branches and loan products through centralized oversight, unified KPIs, and consistent training.
