@@ -75,3 +75,5 @@ The Power BI report includes:
 - Key Findings
 - Recommendation page
 - Interactive slicers for deep dives
+
+  Interactive dashboard - https://app.powerbi.com/groups/me/reports/1e56a460-55fa-4cfe-88f7-0a4ed322680a/6dfcc7df58247392cf5e?experience=power-bi
