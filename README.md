@@ -33,21 +33,9 @@ This report was developed as part of a loan equity analysis project using 23 yea
 - Identified approval gaps and feedback correlation
 -Flagged irregularities across cities (e.g., Mesa, Detroit, San Antonio)
   
- #### Sales performance analysis
-      
-- Calculated Total Sales and Quantity Sold.
-- Identified Top 5 Products by Sales.
-- Determined Regions with the Highest Revenue
+![Bank loan]=(https://github.com/Kaylaoflife/Bank-loan-Analysis/blob/main/Report%20presentation/bank%201.jpg?raw=true)
 
- ### Trend analysis
- 
-  - Analyzed monthlysales trends.
-  - Spotted seasonal spikes and low-performing months.
-  - Calculated Month-on-Month (MoM) % growth
-
-<Bankloan="https://github.com/Kaylaoflife/Bank-loan-Analysis/blob/main/Bank%20Loan%20Report_%20pic/bank%201.jpg?raw=true" width="600">
-
-
+![Teem Dashboard Screenshot 2](https://github.com/Kaylaoflife/Powerbi-project/blob/main/Dashboard%20presentation/Teem%202.png?raw=true)
 
 
 ### key Findings
