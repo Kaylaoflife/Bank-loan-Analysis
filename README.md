@@ -35,9 +35,7 @@ This report was developed as part of a loan equity analysis project using 23 yea
 - Identified approval gaps and feedback correlation
 -Flagged irregularities across cities (e.g., Mesa, Detroit, San Antonio)
   
-![Bank loan]=(https://github.com/Kaylaoflife/Bank-loan-Analysis/blob/main/Report%20presentation/bank%201.jpg?raw=true)
-
-![Teem Dashboard Screenshot 2](https://github.com/Kaylaoflife/Powerbi-project/blob/main/Dashboard%20presentation/Teem%202.png?raw=true)
+![image alt](https://github.com/Kaylaoflife/Bank-loan-Analysis/blob/b4d71541316b34776cecd22e00ac316ba94edbed/Bank%20Loan%20Report_%20pic/bank%202.jpg)
 
 
 ### key Findings
