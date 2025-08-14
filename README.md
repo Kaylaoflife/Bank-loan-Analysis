@@ -56,7 +56,7 @@ Cities like San Antonio, Mesa, and Detroit displayed erratic approval patterns, 
 5. Customer Feedback Insights
 33.6% of all feedback was complaint-related, with middle-aged applicants submitting the most, indicating an urgent need to revisit their loan experience.
 
-![Teem Dashboard Screenshot 2](https://github.com/Kaylaoflife/Powerbi-project/blob/main/Dashboard%20presentation/Teem%202.png?raw=true)
+![image alt](https://github.com/Kaylaoflife/Bank-loan-Analysis/blob/ab5b6de152fd92bd9000d8960a2429cb81ab61d9/Bank%20Loan%20Report_%20pic/bank%203.jpg)
 
 
 ### Recommendations
@@ -71,7 +71,7 @@ Cities like San Antonio, Mesa, and Detroit displayed erratic approval patterns, 
 
 ### Report Navigation
 The Power BI report includes:
-- Loan Approval Trends Overview
 - Demographic & Geographic Deep Dive
+- Key Findings
 - Recommendation page
 - Interactive slicers for deep dives
