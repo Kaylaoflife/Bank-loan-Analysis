@@ -28,6 +28,8 @@ This report was developed as part of a loan equity analysis project using 23 yea
 - Identified top performing loan approved,Rejected and Closed cities
 - Assessed trends in customer feedback and complaint rates
 
+  ![image alt](https://github.com/Kaylaoflife/Bank-loan-Analysis/blob/bbf20dae1be204d11f4134ff23fcdba0da06d04d/Bank%20Loan%20Report_%20pic/bank%201.jpg)
+
 #### Insight Generation & KPIs
 - Calculated approval rates by segment and year
 - Identified approval gaps and feedback correlation
